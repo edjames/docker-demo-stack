@@ -1,41 +1,8 @@
 # Docker Demo Stack
 
-Details to follow...
+This application is part of my multi-part blog series:
 
-## Usage
-
-#### Setup
-
-The setup script will check for installed dependencies. If any dependencies are missing the script will exit.
-If all the dependencies are present, any missing requirements are automatically installed.
-
-```
-setup.sh
-```
-
-#### Start a stack
-
-```
-start.sh
-```
-
-#### Monitor a stack
-
-```
-monitor.sh
-```
-
-#### Stop a stack
-
-```
-stop.sh
-```
-
-#### Cleaning up
-
-```
-teardown.sh
-```
+[Real-World Rails development with Docker](https://itshouldbeuseful.wordpress.com/2017/02/02/real-world-rails-development-with-docker-part-1/)
 
 ## SSL
 
